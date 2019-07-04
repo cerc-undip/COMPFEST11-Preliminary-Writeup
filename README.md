@@ -9,3 +9,6 @@
 ---
 
 ## Challenges
+| Title | Category | Point |
+| --- | --- | --- |
+| [Free Flag](./free-flag) | - | 10 |
