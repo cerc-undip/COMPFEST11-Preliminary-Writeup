@@ -2,7 +2,6 @@
 
 > website : https://compfest.web.id
 > 
-> Team : `MASKOM`
 >
 > Computer Engineering Research Club
 > 
